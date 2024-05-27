@@ -1,0 +1,8 @@
+name: Accessories
+version: '${version}'
+main: com.greenlink.accessories.AccessoriesMain
+api-version: '1.20'
+depend: ["PlayerParticles"]
+commands:
+  giveaccessories:
+  sharpmenu:
